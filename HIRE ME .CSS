@@ -1,0 +1,45 @@
+body{
+    padding: 0%;
+    margin: auto;
+    font-family: sans-serif;
+    
+
+
+}
+h2{
+    text-align: center;
+    color: white;
+    font-weight: bolder;
+}
+h4{
+    text-align: center;
+    color: white;
+    font-weight: bolder;
+}
+input{
+   
+    border-radius: 7px;
+    /* border: none; */
+    align-items: center;
+    text-align: center;
+    margin-left: 200px;
+}
+.one{
+    background-color: brown;
+    width: 800px;
+    height: 400px;
+    margin-top: 200px;
+    margin-left: 290px;
+    border-radius: 30px;
+    border: none;
+}
+.button{
+  margin-left: 300px;
+  border-radius: 10px;
+  border: none;
+  background-color: brown;
+  cursor: pointer;
+  color: white;
+  font-weight: bolder;
+  font-size: larger;
+}

@@ -1,0 +1,47 @@
+body{
+    padding: 0%;
+    margin: auto;
+    font-family: sans-serif;
+
+}
+.onet{
+    font-weight: bold;
+    font-size: medium;
+    margin-left: 20px;
+    font-family: sans-serif;
+
+}
+.fourt{
+    color: brown;
+    font-weight: bold;
+    font-family: Arial;
+}
+.twot{
+ font-family: sans-serif;
+ font-weight: bold;
+ font-size: 18px;
+
+}
+.fivet{
+    font-family: sans-serif;
+    font-weight: lighter;
+    font-size: small;
+    margin-left: 10px;
+}
+.eightt{
+    margin-left: 40px;
+    font-weight: 20;
+    font-family: sans-serif;
+    font-size: small;
+}
+.threet{
+    font-family: sans-serif;
+    font-weight: bolder;
+    font-size: large;
+}
+.sevent{
+    font-family: sans-serif;
+    font-weight: lighter;
+    font-size: small;
+    margin-left: 20px;
+}
